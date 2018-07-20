@@ -73,3 +73,21 @@ Iws: Cumulated wind speed (m/s)
 precipitation: hourly precipitation (mm) 
 Iprec: Cumulated precipitation (mm)
 
+
+District	Population	Density (per sq/km)
+Chaoyang District	3,545,000	7,530
+Haidian District	3,281,000	7,702
+Fengtai District	2,112,000	6,943
+Changping District	1,661,000	1,162
+Daxing District	1,365,000	1,349
+Xicheng District	1,243,000	26,731
+Tongzhou District	1,184,000	1,361
+Fangshan District	945,000	506
+Dongcheng District	919,000	22,635
+Shunyi District	877,000	895
+Shijingshan District	616,000	6,860
+Miyun County	468,000	200
+Pinggu District	416,000	387
+Huairou District	373,000	146
+Yanqing County	317,000	160
+Mentougou District	290,000	218
